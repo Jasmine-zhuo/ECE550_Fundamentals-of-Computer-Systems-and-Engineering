@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/vcm/Documents/ECE_550/ALU_full/simulation/qsim
+valu
+Z1 !s110 1664564003
+!i10b 1
+!s100 _fU:a<WRXU7`famaj:?:72
+IiJV80=UW1McVSQ?AZeZTz1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1664564002
+Z3 8ALU_full.vo
+Z4 FALU_full.vo
+Z5 L0 32
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1664564003.000000
+Z8 !s107 ALU_full.vo|
+Z9 !s90 -work|work|ALU_full.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+valu_vlg_vec_tst
+R1
+!i10b 1
+!s100 AY5@z>ohSn]_h0Sn<T:]I1
+ISC[R[MI`US>Pcze0>R?FA2
+R2
+R0
+w1664564001
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+Z12 L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+vCSA_32
+Z13 !s110 1664564611
+!i10b 1
+!s100 E4VHDdGYV>hW3`IhU[FiN1
+I:F3^I^H=PJd?ODa?2;?F61
+R2
+R0
+Z14 w1664564610
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z15 !s108 1664564611.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@c@s@a_32
+vCSA_32_vlg_vec_tst
+R13
+!i10b 1
+!s100 hC=?nffgN68:@fn4azT3i1
+ICD?K6O2a7KhmbiF8:5KlI1
+R2
+R0
+w1664564608
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+R15
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R10
+R11
+n@c@s@a_32_vlg_vec_tst
+vhard_block
+R13
+!i10b 1
+!s100 U:eIe600RD30Ho;e>l;::1
+IIdPO9z2BnL<2IO:][1KkL2
+R2
+R0
+R14
+R3
+R4
+L0 3654
+R6
+r1
+!s85 0
+31
+R15
+R8
+R9
+!i113 1
+R10
+R11

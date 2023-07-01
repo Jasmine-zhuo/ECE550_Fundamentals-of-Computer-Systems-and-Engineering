@@ -1,0 +1,395 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/vcm/Documents/ECE_550/ALU_full/simulation/modelsim
+valu
+Z1 !s110 1664564768
+!i10b 1
+!s100 CHFSa45>;Qo8RcGHXASAF0
+IFboBa=EQd2_E]73bhiUdz2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1664564661
+8C:/Users/vcm/Documents/ECE_550/ALU_full/alu.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/alu.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1664564768.000000
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/alu.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/vcm/Documents/ECE_550/ALU_full
+Z7 tCvgOpt 0
+valu_tb
+Z8 !s110 1664564769
+!i10b 1
+!s100 ekX@Y6GSOh1<RLi8QSfPj3
+I<jN3WHlDMo0<OE_g7;eI]3
+R2
+R0
+w1664426698
+8C:/Users/vcm/Documents/ECE_550/ALU_full/alu_tb.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z9 !s108 1664564769.000000
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/alu_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/alu_tb.v|
+!i113 1
+R5
+R6
+R7
+vbitwise_and
+R1
+!i10b 1
+!s100 62DCe62ama1klQTid_;io0
+In63MZjGOneTKX;Ji@Ig9d0
+R2
+R0
+w1664494241
+8C:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_and.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_and.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_and.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_and.v|
+!i113 1
+R5
+R6
+R7
+vbitwise_or
+R1
+!i10b 1
+!s100 <Mc^3IUdMUJCfnS@NnE@I0
+IR;Jh4;Eod6ReGNJEo3Vch1
+R2
+R0
+w1664494269
+8C:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_or.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_or.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_or.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/bitwise_or.v|
+!i113 1
+R5
+R6
+R7
+vCSA_16
+Z10 !s110 1664564767
+!i10b 1
+!s100 LXGU4i7k6U_]3?L=W4D730
+IdM@S;:IHcUgaK]S9Nk4aL3
+R2
+R0
+w1664564405
+8C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_16.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/CSA_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1664564767.000000
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_16.v|
+!i113 1
+R5
+R6
+R7
+n@c@s@a_16
+vCSA_32
+R10
+!i10b 1
+!s100 z4Gnk3ma?oz65OdE>AAn^1
+Il;aleY7k`e??SlZ3U>43d2
+R2
+R0
+w1664564323
+8C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_32.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/CSA_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_32.v|
+!i113 1
+R5
+R6
+R7
+n@c@s@a_32
+vCSA_8
+R10
+!i10b 1
+!s100 zo2iH87Nn71J3=:XmTmYz0
+I0@5nfjO<ZbXS1hZh06QUn0
+R2
+R0
+w1664564420
+8C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_8.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/CSA_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/CSA_8.v|
+!i113 1
+R5
+R6
+R7
+n@c@s@a_8
+vfa
+R10
+!i10b 1
+!s100 LYmAC7DVPa;EG`faWc]0W2
+ILU@>LZSdV;]Vdin4Z1c<61
+R2
+R0
+w1664424996
+8C:/Users/vcm/Documents/ECE_550/ALU_full/fa.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/fa.v
+L0 5
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/fa.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/fa.v|
+!i113 1
+R5
+R6
+R7
+visLessThan
+R1
+!i10b 1
+!s100 UWnb3dBb=@2HN=l`HmN]H0
+I=jVkL1N`AfDoh01:zghVW0
+R2
+R0
+w1664562391
+8C:/Users/vcm/Documents/ECE_550/ALU_full/isLessThan.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/isLessThan.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/isLessThan.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/isLessThan.v|
+!i113 1
+R5
+R6
+R7
+nis@less@than
+visNotEqual
+R1
+!i10b 1
+!s100 Ga2ZJT@zQzcITAU5UYdZX3
+IYdI]I?O4FB9fgg;kmgN]o0
+R2
+R0
+w1664561192
+8C:/Users/vcm/Documents/ECE_550/ALU_full/isNotEqual.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/isNotEqual.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/isNotEqual.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/isNotEqual.v|
+!i113 1
+R5
+R6
+R7
+nis@not@equal
+vmux
+R1
+!i10b 1
+!s100 6GZE]bVKeYV0O>`fPLSb12
+Ii[K7ef<5G4Pz4<GCJz8710
+R2
+R0
+w1664425140
+8C:/Users/vcm/Documents/ECE_550/ALU_full/mux.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/mux.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/mux.v|
+!i113 1
+R5
+R6
+R7
+vMUX16
+R1
+!i10b 1
+!s100 =8ZO4;HIhlggF40akAc1?1
+IPaSjG62GX?45N2YV;7<XX2
+R2
+R0
+w1664563890
+8C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_16.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/MUX_16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_16.v|
+!i113 1
+R5
+R6
+R7
+n@m@u@x16
+vMUX4
+R1
+!i10b 1
+!s100 g?H0j=DfdikBPU@8S=3e^0
+I>Gi7fHfdKQ`<DFd5XQh2M0
+R2
+R0
+w1664563849
+8C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_4.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/MUX_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_4.v|
+!i113 1
+R5
+R6
+R7
+n@m@u@x4
+vMUX8
+R1
+!i10b 1
+!s100 NjP`LC^Th0]1l244QbWNm3
+IADSRNC5T8A4Y`dBTGAI6E0
+R2
+R0
+w1664563871
+8C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_8.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/MUX_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/MUX_8.v|
+!i113 1
+R5
+R6
+R7
+n@m@u@x8
+vRCA
+R10
+!i10b 1
+!s100 lc7U0;B]4N7@W=W1L5YjF0
+I[j:P:Z`GEQe=kN9PKjW0M0
+R2
+R0
+w1664425022
+8C:/Users/vcm/Documents/ECE_550/ALU_full/RCA.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/RCA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/RCA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/RCA.v|
+!i113 1
+R5
+R6
+R7
+n@r@c@a
+vSLL
+R8
+!i10b 1
+!s100 ]Vco1KI1b[G4_B@]:IQeU3
+ISkho2T@dk5ggzZ80]U<ml2
+R2
+R0
+w1664554484
+8C:/Users/vcm/Documents/ECE_550/ALU_full/SLL.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/SLL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/SLL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/SLL.v|
+!i113 1
+R5
+R6
+R7
+n@s@l@l
+vSRA
+R8
+!i10b 1
+!s100 GNC81TVOeJb7Y;Io4[FZV3
+IGMjije6Ba2[@hfPeo;QE93
+R2
+R0
+w1664551106
+8C:/Users/vcm/Documents/ECE_550/ALU_full/SRA.v
+FC:/Users/vcm/Documents/ECE_550/ALU_full/SRA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/vcm/Documents/ECE_550/ALU_full/SRA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/vcm/Documents/ECE_550/ALU_full|C:/Users/vcm/Documents/ECE_550/ALU_full/SRA.v|
+!i113 1
+R5
+R6
+R7
+n@s@r@a

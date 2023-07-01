@@ -1,0 +1,22 @@
+module alu(data_operandA, data_operandB, ctrl_ALUopcode, ctrl_shiftamt, data_result, isNotEqual, isLessThan, overflow);
+
+   input [31:0] data_operandA, data_operandB;
+   input [4:0] ctrl_ALUopcode, ctrl_shiftamt;
+
+   output [31:0] data_result;
+   output isNotEqual, isLessThan, overflow;
+	
+	wire cin,cout;
+	wire [31:0] neg_B;
+	wire [31:0]deci;//depend on opcode
+
+   // YOUR CODE HERE //
+	//not not_array [31:0](neg_B,data_operandB);
+	MUX32 MUX32(deci[31:0], data_operandB[31:0],~data_operandB[31:0] ,ctrl_ALUopcode[0]);
+	mux mux1(1'b0,1'b1,ctrl_ALUopcode[0],cin);
+	
+	CSA_32 CSA_32(data_operandA[31:0],deci[31:0],cin,data_result[31:0],cout);
+	
+	xnor xnor1(overflow,data_operandA[31],deci[31],cout,~data_result[31]);
+	
+endmodule

@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/17.0/PC3/simulation/qsim
+vhard_block
+Z1 !s110 1665720164
+!i10b 1
+!s100 eobK^_7TGdlGB><cQIO`10
+IGhmIWf8OH94gS2X5V[hLA2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665720163
+Z4 8regfile.vo
+Z5 Fregfile.vo
+L0 2149
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1665720164.000000
+Z8 !s107 regfile.vo|
+Z9 !s90 -work|work|regfile.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vregister
+R1
+!i10b 1
+!s100 ED`[J7GVH;K`FU5IUk`Bl0
+Ici7<T?9HIVG7M0dZ_`WPY3
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vregister_vlg_vec_tst
+R1
+!i10b 1
+!s100 EfKzAUc@V[f^C==;iMD>P2
+IE0bDP@AgiE;ik9Kb[HGYG0
+R2
+R0
+w1665720161
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11

@@ -1,0 +1,142 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/17.0/PC3/simulation/modelsim
+vdecoder
+Z1 !s110 1665761514
+!i10b 1
+!s100 7nch16WXOWmndXDB<9LEh2
+I?kWcHi:V=]fPE[@K4zPU<0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1665710174
+8C:/intelFPGA_lite/17.0/PC3/decoder.v
+FC:/intelFPGA_lite/17.0/PC3/decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1665761514.000000
+!s107 C:/intelFPGA_lite/17.0/PC3/decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/17.0/PC3|C:/intelFPGA_lite/17.0/PC3/decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/17.0/PC3
+Z7 tCvgOpt 0
+vdffe_ref
+Z8 !s110 1665761513
+!i10b 1
+!s100 m2?1a8:`omUTO_3UK>MQz1
+I[7RW;:SCLNT4[C_bR<MTz3
+R2
+R0
+w1665593158
+8C:/intelFPGA_lite/17.0/PC3/dffe.v
+FC:/intelFPGA_lite/17.0/PC3/dffe.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1665761513.000000
+!s107 C:/intelFPGA_lite/17.0/PC3/dffe.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/17.0/PC3|C:/intelFPGA_lite/17.0/PC3/dffe.v|
+!i113 1
+R5
+R6
+R7
+vregfile
+R8
+!i10b 1
+!s100 OOX4oW;0nme5AO^[n?EPm3
+ImBgkA5_ZTeYMAXPf_Zzm83
+R2
+R0
+w1665761387
+8C:/intelFPGA_lite/17.0/PC3/regfile.v
+FC:/intelFPGA_lite/17.0/PC3/regfile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/17.0/PC3/regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/17.0/PC3|C:/intelFPGA_lite/17.0/PC3/regfile.v|
+!i113 1
+R5
+R6
+R7
+vregfile_tb
+R1
+!i10b 1
+!s100 L618:cZEjdSH7JoDEIcel3
+IZ7Q8Go1ggj6R7Gmn8Un3R2
+R2
+R0
+w1665593221
+8C:/intelFPGA_lite/17.0/PC3/regfile_tb.v
+FC:/intelFPGA_lite/17.0/PC3/regfile_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA_lite/17.0/PC3/regfile_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/17.0/PC3|C:/intelFPGA_lite/17.0/PC3/regfile_tb.v|
+!i113 1
+R5
+R6
+R7
+vregister
+R8
+!i10b 1
+!s100 4ORm_92@QU601h56a;2JW2
+I65H5HVk:5A42X9WU_<ETU0
+R2
+R0
+w1665759229
+8C:/intelFPGA_lite/17.0/PC3/register.v
+FC:/intelFPGA_lite/17.0/PC3/register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/17.0/PC3/register.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/17.0/PC3|C:/intelFPGA_lite/17.0/PC3/register.v|
+!i113 1
+R5
+R6
+R7
+vtristate_buffer
+R8
+!i10b 1
+!s100 `4UA:JJ3XQG[:SDI4_0070
+Ie730RKn81=Ng4jI]UTeG13
+R2
+R0
+w1665760208
+8C:/intelFPGA_lite/17.0/PC3/tristate_buffer.v
+FC:/intelFPGA_lite/17.0/PC3/tristate_buffer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/intelFPGA_lite/17.0/PC3/tristate_buffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/17.0/PC3|C:/intelFPGA_lite/17.0/PC3/tristate_buffer.v|
+!i113 1
+R5
+R6
+R7

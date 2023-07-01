@@ -1,0 +1,6 @@
+module isNotEqual(a,b,cin,diff,cout,isLessThan)
+
+CSA_32 CSA_32(data_operandA[31:0],~data_operandB[31:0],cin,diff[31:0],cout);
+assign isLessThan=diff[31]? 0:1;
+
+endmodule

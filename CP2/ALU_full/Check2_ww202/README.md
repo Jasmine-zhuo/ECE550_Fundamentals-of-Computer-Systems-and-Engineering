@@ -1,0 +1,1 @@
+ECE550 PROJECT CHECKPOINT 2Name: Wenzhuo WuNetid: ww202In this checkpoint, I implemented advanced functions including AND, OR and shifting. For AND and OR implementation, and gate and or gate are used to do the calculation. MUX is used to achieve left shifting and right shifting.This design can also compare the value of A and B based on the subtraction result.

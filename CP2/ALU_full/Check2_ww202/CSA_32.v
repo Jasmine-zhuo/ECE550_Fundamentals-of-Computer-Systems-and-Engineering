@@ -1,0 +1,23 @@
+module CSA_32(a1,b1,cin,sum,cout);
+	input [31:0] a1,b1;
+	input cin;
+	output [31:0] sum;
+	output cout;
+	
+	wire [15:0] s0,s1;
+	wire c0,c1;
+	wire cs;
+	
+	//RCA(A,B,cin,s,cout);
+	CSA_16 CSA_16_1(a1[15:0],b1[15:0],cin,sum[15:0],cs);
+	CSA_16 CSA_16_2(a1[31:16],b1[31:16],1'b0,s0[15:0],c0);
+	CSA_16 CSA_16_3(a1[31:16],b1[31:16],1'b1,s1[15:0],c1);
+	
+	//MUX MUX32(sum[7:4],s0[3:0],s1[3:0],cs);
+	MUX16 MUX0(sum[31:16],s1[15:0],s0[15:0],cs);
+	//mux mux0(cout,cs,c1,c0);
+	mux mux_3(c0,c1,cs,cout);
+	
+
+endmodule
+

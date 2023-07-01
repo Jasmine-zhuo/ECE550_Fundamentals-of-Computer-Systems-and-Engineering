@@ -1,0 +1,5 @@
+module SLL(a,ctrl_shiftmat,result)
+	input [31:0] a;
+	input [4:0] shiftamt;
+	output [31:0] result;
+	wire [31:0] result0, result1, result2, result3;

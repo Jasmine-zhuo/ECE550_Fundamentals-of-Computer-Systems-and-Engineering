@@ -1,0 +1,2 @@
+module isLessThan()
+CSA_32 CSA_32(data_operandA[31:0],~data_operandB[31:0],cin,data_result[31:0],cout);
